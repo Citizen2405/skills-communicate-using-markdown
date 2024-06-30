@@ -11,3 +11,12 @@ Types of headers.
 ## Image 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+``` C++
+#include<stdio.h>
+void main()
+{
+  cout<<"Hello World";
+}
+```
