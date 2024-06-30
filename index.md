@@ -13,6 +13,8 @@ Types of headers.
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
+## C++ code snippet
+
 ``` C++
 #include<stdio.h>
 void main()
@@ -20,3 +22,9 @@ void main()
   cout<<"Hello World";
 }
 ```
+
+## Task List 
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
