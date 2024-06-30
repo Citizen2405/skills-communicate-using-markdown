@@ -8,7 +8,6 @@
 -->
 
 # Communicate using Markdown
-###### Communicate using Markdown subtitle
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
@@ -22,7 +21,6 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 -->
 
 ## Step 1: Add headers
-#### Adding headers in the step 1
 
 _Welcome to "Communicate using Markdown"! :wave:_
 
