@@ -7,3 +7,7 @@
 This is the body  text
 
 Types of headers. 
+
+## Image 
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
