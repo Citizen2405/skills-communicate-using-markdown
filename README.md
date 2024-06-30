@@ -8,7 +8,7 @@
 -->
 
 # Communicate using Markdown
-
+###### Communicate using Markdown subtitle
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
@@ -22,6 +22,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 -->
 
 ## Step 1: Add headers
+#### Adding headers in the step 1
 
 _Welcome to "Communicate using Markdown"! :wave:_
 
@@ -65,6 +66,15 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. Click **Commit changes**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
+
+# This is test h1
+## This is test h2
+### This is test h3
+#### This is test h4
+##### This is test h5
+###### This is test h6
+This is test body content. 
+
 <footer>
 
 <!--
@@ -79,3 +89,5 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
+
+Testing different headers. 
